@@ -177,3 +177,6 @@
 [rebase]
     instructionFormat = "[%an - %ar] %s"
     autoStash = true
+[user]
+	name = Karmo Veering
+	email = karmo.pits@gmail.com
